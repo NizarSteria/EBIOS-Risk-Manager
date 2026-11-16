@@ -24,4 +24,13 @@ Parmi les propositions suivantes, cochez uniquement les Valeurs Métier. Plusieu
 
 <img width="715" height="932" alt="Capture d’écran 2026-11-16 à 16 07 49" src="https://github.com/user-attachments/assets/49840fe4-632a-41cc-8d8a-9e8a9c558f1b" />
 
+Vidéo 5 : Explication des Biens Support et leurs relations avec les Valeurs Métier
+
+EXERCICE 3 : Définir un Bien Support
+
+<img width="715" height="489" alt="image" src="https://github.com/user-attachments/assets/9d3875d1-d3d7-45fc-8dee-98919d18fb35" />
+
+EXERCICE 4 : Identifier les Biens Support de la boulangerie connectée
+
+
 
