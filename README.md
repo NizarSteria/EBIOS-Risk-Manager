@@ -10,5 +10,5 @@ Vidéo 2 : les besoins de sécurité : Disponibilité, Intégrité et Confidenti
 
 Vidéo 3 : Mise en situation avec le thème de la Boulangerie connectée
 
-Vidéo 4 : Qu’est ce qu’une Valeur Métier ?
+Vidéo 4 : Qu’est ce qu’une Valeur Métier ? les services critiques et les valeurs metiers
 
